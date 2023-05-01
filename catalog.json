@@ -39,9 +39,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/readarr",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "16.0.3",
+            "latest_version": "16.0.4",
             "latest_app_version": "0.1.4.1596",
-            "latest_human_version": "0.1.4.1596_16.0.3",
+            "latest_human_version": "0.1.4.1596_16.0.4",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/readarr.png"
         },
         "boinc": {
@@ -68,9 +68,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/prusaslicer-novnc",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
+            "latest_version": "4.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_4.0.9",
+            "latest_human_version": "latest_4.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/prusaslicer-novnc.png"
         },
         "minio-console": {
@@ -82,9 +82,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/minio-console",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "6.0.9",
-            "latest_app_version": "0.23.1",
-            "latest_human_version": "0.23.1_6.0.9",
+            "latest_version": "6.0.10",
+            "latest_app_version": "0.26.3",
+            "latest_human_version": "0.26.3_6.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/minio-console.png"
         },
         "rtmpserver": {
@@ -111,9 +111,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/komga",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "9.0.9",
-            "latest_app_version": "0.161.0",
-            "latest_human_version": "0.161.0_9.0.9",
+            "latest_version": "9.0.10",
+            "latest_app_version": "0.165.0",
+            "latest_human_version": "0.165.0_9.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/komga.png"
         },
         "cloudflareddns": {
@@ -139,9 +139,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/qbittorrent",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "15.0.10",
+            "latest_version": "15.0.11",
             "latest_app_version": "4.5.2",
-            "latest_human_version": "4.5.2_15.0.10",
+            "latest_human_version": "4.5.2_15.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/qbittorrent.png"
         },
         "flood": {
@@ -167,9 +167,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/paperless-ngx",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "1.0.10",
-            "latest_app_version": "1.13.0",
-            "latest_human_version": "1.13.0_1.0.10",
+            "latest_version": "1.0.11",
+            "latest_app_version": "1.14.2",
+            "latest_human_version": "1.14.2_1.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/paperless-ngx.png"
         },
         "projectsend": {
@@ -195,9 +195,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/avidemux",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.7",
-            "latest_app_version": "1.4.0",
-            "latest_human_version": "1.4.0_4.0.7",
+            "latest_version": "4.0.9",
+            "latest_app_version": "23.03.1",
+            "latest_human_version": "23.03.1_4.0.9",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/avidemux.png"
         },
         "trilium-notes": {
@@ -209,9 +209,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/trilium-notes",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "8.0.9",
-            "latest_app_version": "0.58.8",
-            "latest_human_version": "0.58.8_8.0.9",
+            "latest_version": "8.0.10",
+            "latest_app_version": "0.59.4",
+            "latest_human_version": "0.59.4_8.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/trilium-notes.png"
         },
         "ztcuui-aio": {
@@ -223,9 +223,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/ztcuui-aio",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
-            "latest_app_version": "1.2.12",
-            "latest_human_version": "1.2.12_4.0.9",
+            "latest_version": "4.0.10",
+            "latest_app_version": "1.2.14",
+            "latest_human_version": "1.2.14_4.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/ztcuui-aio.png"
         },
         "ring-mqtt": {
@@ -238,9 +238,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/ring-mqtt",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
-            "latest_app_version": "5.1.3",
-            "latest_human_version": "5.1.3_4.0.9",
+            "latest_version": "4.0.10",
+            "latest_app_version": "5.2.2",
+            "latest_human_version": "5.2.2_4.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/ring-mqtt.png"
         },
         "truecommand": {
@@ -266,9 +266,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/rdesktop",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.10",
+            "latest_version": "4.0.12",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_4.0.10",
+            "latest_human_version": "latest_4.0.12",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/rdesktop.png"
         },
         "focalboard": {
@@ -365,9 +365,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/ddns-go",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.9",
-            "latest_app_version": "4.5.6",
-            "latest_human_version": "4.5.6_5.0.9",
+            "latest_version": "5.0.10",
+            "latest_app_version": "5.1.1",
+            "latest_human_version": "5.1.1_5.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/ddns-go.png"
         },
         "monica": {
@@ -379,9 +379,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/monica",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "6.0.30",
+            "latest_version": "7.0.1",
             "latest_app_version": "4.0.0",
-            "latest_human_version": "4.0.0_6.0.30",
+            "latest_human_version": "4.0.0_7.0.1",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/monica.png"
         },
         "linkace": {
@@ -423,9 +423,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/rsnapshot",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.7",
+            "latest_version": "5.0.8",
             "latest_app_version": "1.4.4",
-            "latest_human_version": "1.4.4_5.0.7",
+            "latest_human_version": "1.4.4_5.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/rsnapshot.png"
         },
         "jdownloader2": {
@@ -437,9 +437,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/jdownloader2",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "10.0.15",
-            "latest_app_version": "23.02.2",
-            "latest_human_version": "23.02.2_10.0.15",
+            "latest_version": "11.0.1",
+            "latest_app_version": "23.03.1",
+            "latest_human_version": "23.03.1_11.0.1",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/jdownloader2.png"
         },
         "scrutiny": {
@@ -479,9 +479,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/ngircd",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
+            "latest_version": "5.0.0",
             "latest_app_version": "2021.11.21",
-            "latest_human_version": "2021.11.21_4.0.9",
+            "latest_human_version": "2021.11.21_5.0.0",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/ngircd.png"
         },
         "openhab": {
@@ -494,9 +494,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/openhab",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.12",
+            "latest_version": "5.0.0",
             "latest_app_version": "3.4.2",
-            "latest_human_version": "3.4.2_4.0.12",
+            "latest_human_version": "3.4.2_5.0.0",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/openhab.png"
         },
         "fileflows": {
@@ -508,9 +508,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/fileflows",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.9",
-            "latest_app_version": "1.0.9",
-            "latest_human_version": "1.0.9_5.0.9",
+            "latest_version": "5.0.11",
+            "latest_app_version": "1.1.0",
+            "latest_human_version": "1.1.0_5.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/fileflows.png"
         },
         "openspeedtest": {
@@ -523,9 +523,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/openspeedtest",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.7",
+            "latest_version": "4.0.8",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_4.0.7",
+            "latest_human_version": "latest_4.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/openspeedtest.png"
         },
         "couchpotato": {
@@ -551,9 +551,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/jupyter",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.11",
+            "latest_version": "4.0.12",
             "latest_app_version": "2023",
-            "latest_human_version": "2023_4.0.11",
+            "latest_human_version": "2023_4.0.12",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/jupyter.png"
         },
         "xbackbone": {
@@ -607,9 +607,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/minetest",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
-            "latest_app_version": "5.6.1",
-            "latest_human_version": "5.6.1_4.0.9",
+            "latest_version": "4.0.11",
+            "latest_app_version": "5.7.0",
+            "latest_human_version": "5.7.0_4.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/minetest.png"
         },
         "synclounge": {
@@ -621,9 +621,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/synclounge",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.9",
+            "latest_version": "5.0.10",
             "latest_app_version": "5.2.5",
-            "latest_human_version": "5.2.5_5.0.9",
+            "latest_human_version": "5.2.5_5.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/synclounge.png"
         },
         "metube": {
@@ -635,9 +635,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/metube",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.9",
+            "latest_version": "7.0.10",
             "latest_app_version": "2023",
-            "latest_human_version": "2023_7.0.9",
+            "latest_human_version": "2023_7.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/metube.png"
         },
         "shoko-server": {
@@ -650,9 +650,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/shoko-server",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.9",
-            "latest_app_version": "4.1.2",
-            "latest_human_version": "4.1.2_5.0.9",
+            "latest_version": "5.0.10",
+            "latest_app_version": "4.2.2",
+            "latest_human_version": "4.2.2_5.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/shoko-server.png"
         },
         "transmission": {
@@ -678,9 +678,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/stash",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "10.0.9",
-            "latest_app_version": "0.19.1",
-            "latest_human_version": "0.19.1_10.0.9",
+            "latest_version": "10.0.10",
+            "latest_app_version": "0.20.2",
+            "latest_human_version": "0.20.2_10.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/stash.png"
         },
         "double-take": {
@@ -706,9 +706,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/strapi",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "9.0.9",
-            "latest_app_version": "4.6.2",
-            "latest_human_version": "4.6.2_9.0.9",
+            "latest_version": "9.0.10",
+            "latest_app_version": "4.10.1",
+            "latest_human_version": "4.10.1_9.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/strapi.png"
         },
         "budge": {
@@ -734,9 +734,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/owncloud-ocis",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "10.0.9",
+            "latest_version": "11.0.0",
             "latest_app_version": "2.0.0",
-            "latest_human_version": "2.0.0_10.0.9",
+            "latest_human_version": "2.0.0_11.0.0",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/owncloud-ocis.png"
         },
         "pidgin": {
@@ -776,9 +776,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/mosdns",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.7",
-            "latest_app_version": "5.1.1",
-            "latest_human_version": "5.1.1_5.0.7",
+            "latest_version": "5.0.8",
+            "latest_app_version": "5.1.3",
+            "latest_human_version": "5.1.3_5.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/mosdns.png"
         },
         "thelounge": {
@@ -790,9 +790,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/thelounge",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "9.0.9",
+            "latest_version": "9.0.10",
             "latest_app_version": "4.3.1",
-            "latest_human_version": "4.3.1_9.0.9",
+            "latest_human_version": "4.3.1_9.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/thelounge.png"
         },
         "kitchenowl": {
@@ -904,9 +904,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/lldap",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "1.0.6",
-            "latest_app_version": "latest",
-            "latest_human_version": "latest_1.0.6",
+            "latest_version": "1.1.0",
+            "latest_app_version": "0.4.3",
+            "latest_human_version": "0.4.3_1.1.0",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/lldap.png"
         },
         "flexget": {
@@ -918,9 +918,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/flexget",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.9",
-            "latest_app_version": "3.5.27",
-            "latest_human_version": "3.5.27_5.0.9",
+            "latest_version": "5.0.11",
+            "latest_app_version": "3.6.3",
+            "latest_human_version": "3.6.3_5.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/flexget.png"
         },
         "verysync": {
@@ -1046,9 +1046,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/retrobot",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
+            "latest_version": "4.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_4.0.9",
+            "latest_human_version": "latest_4.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/retrobot.png"
         },
         "ombi": {
@@ -1060,9 +1060,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/ombi",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "14.0.9",
+            "latest_version": "14.0.10",
             "latest_app_version": "4.35.3",
-            "latest_human_version": "4.35.3_14.0.9",
+            "latest_human_version": "4.35.3_14.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/ombi.png"
         },
         "dupeguru": {
@@ -1102,9 +1102,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/impostor-server",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
-            "latest_app_version": "1.7.3",
-            "latest_human_version": "1.7.3_4.0.9",
+            "latest_version": "4.0.10",
+            "latest_app_version": "1.8.2",
+            "latest_human_version": "1.8.2_4.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/impostor-server.png"
         },
         "radarr": {
@@ -1116,9 +1116,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/radarr",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "16.0.4",
+            "latest_version": "16.0.5",
             "latest_app_version": "4.4.4.7068",
-            "latest_human_version": "4.4.4.7068_16.0.4",
+            "latest_human_version": "4.4.4.7068_16.0.5",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/radarr.png"
         },
         "docker-compose": {
@@ -1130,9 +1130,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/docker-compose",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.26",
-            "latest_app_version": "23.0.1",
-            "latest_human_version": "23.0.1_5.0.26",
+            "latest_version": "6.0.2",
+            "latest_app_version": "23.0.5",
+            "latest_human_version": "23.0.5_6.0.2",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/docker-compose.png"
         },
         "lancache-dns": {
@@ -1144,9 +1144,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/lancache-dns",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.7",
+            "latest_version": "4.0.8",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_4.0.7",
+            "latest_human_version": "latest_4.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/lancache-dns.png"
         },
         "davos": {
@@ -1172,9 +1172,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/uptime-kuma",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "6.0.9",
-            "latest_app_version": "1.20.2",
-            "latest_human_version": "1.20.2_6.0.9",
+            "latest_version": "6.0.10",
+            "latest_app_version": "1.21.2",
+            "latest_human_version": "1.21.2_6.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png"
         },
         "wireguard": {
@@ -1232,9 +1232,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/n8n",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "8.0.9",
-            "latest_app_version": "0.217.2",
-            "latest_human_version": "0.217.2_8.0.9",
+            "latest_version": "8.0.10",
+            "latest_app_version": "0.226.0",
+            "latest_human_version": "0.226.0_8.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/n8n.png"
         },
         "drawio": {
@@ -1246,9 +1246,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/drawio",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.9",
-            "latest_app_version": "20.8.23",
-            "latest_human_version": "20.8.23_5.0.9",
+            "latest_version": "5.0.10",
+            "latest_app_version": "21.2.1",
+            "latest_human_version": "21.2.1_5.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/drawio.png"
         },
         "alist": {
@@ -1260,9 +1260,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/alist",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.9",
-            "latest_app_version": "3.12.2",
-            "latest_human_version": "3.12.2_5.0.9",
+            "latest_version": "5.0.10",
+            "latest_app_version": "3.16.3",
+            "latest_human_version": "3.16.3_5.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/alist.png"
         },
         "odoo": {
@@ -1288,9 +1288,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/filebot",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "3.0.13",
-            "latest_app_version": "23.02.2",
-            "latest_human_version": "23.02.2_3.0.13",
+            "latest_version": "4.0.1",
+            "latest_app_version": "23.04.1",
+            "latest_human_version": "23.04.1_4.0.1",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/filebot.png"
         },
         "openldap": {
@@ -1330,9 +1330,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/weblate",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "8.0.9",
-            "latest_app_version": "4.15.2",
-            "latest_human_version": "4.15.2_8.0.9",
+            "latest_version": "8.0.10",
+            "latest_app_version": "4.16.4",
+            "latest_human_version": "4.16.4_8.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/weblate.png"
         },
         "heimdall": {
@@ -1344,9 +1344,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/heimdall",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "15.0.10",
-            "latest_app_version": "2.5.5",
-            "latest_human_version": "2.5.5_15.0.10",
+            "latest_version": "15.0.11",
+            "latest_app_version": "2.5.6",
+            "latest_human_version": "2.5.6_15.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/heimdall.png"
         },
         "cloudflared": {
@@ -1372,9 +1372,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/home-assistant",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "19.0.11",
-            "latest_app_version": "2023.2.5",
-            "latest_human_version": "2023.2.5_19.0.11",
+            "latest_version": "19.0.12",
+            "latest_app_version": "2023.4.6",
+            "latest_human_version": "2023.4.6_19.0.12",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/home-assistant.png"
         },
         "flaresolverr": {
@@ -1386,9 +1386,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/flaresolverr",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "9.0.7",
-            "latest_app_version": "3.0.2",
-            "latest_human_version": "3.0.2_9.0.7",
+            "latest_version": "9.0.9",
+            "latest_app_version": "3.1.2",
+            "latest_human_version": "3.1.2_9.0.9",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.png"
         },
         "picoshare": {
@@ -1400,9 +1400,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/picoshare",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.9",
-            "latest_app_version": "1.3.1",
-            "latest_human_version": "1.3.1_5.0.9",
+            "latest_version": "5.0.10",
+            "latest_app_version": "1.3.3",
+            "latest_human_version": "1.3.3_5.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/picoshare.png"
         },
         "mattermost": {
@@ -1428,9 +1428,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/commento-plusplus",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "6.0.23",
+            "latest_version": "7.0.0",
             "latest_app_version": "1.8.7",
-            "latest_human_version": "1.8.7_6.0.23",
+            "latest_human_version": "1.8.7_7.0.0",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/commento-plusplus.png"
         },
         "czkawka": {
@@ -1443,9 +1443,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/czkawka",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
-            "latest_app_version": "23.02.3",
-            "latest_human_version": "23.02.3_4.0.9",
+            "latest_version": "4.0.11",
+            "latest_app_version": "23.03.1",
+            "latest_human_version": "23.03.1_4.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/czkawka.png"
         },
         "snipe-it": {
@@ -1471,9 +1471,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/quassel-core",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.7",
+            "latest_version": "7.0.8",
             "latest_app_version": "0.14.0",
-            "latest_human_version": "0.14.0_7.0.7",
+            "latest_human_version": "0.14.0_7.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/quassel-core.png"
         },
         "minecraft-bungeecord": {
@@ -1500,9 +1500,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/appdaemon",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "12.0.9",
-            "latest_app_version": "4.2.3",
-            "latest_human_version": "4.2.3_12.0.9",
+            "latest_version": "12.0.10",
+            "latest_app_version": "4.4.2",
+            "latest_human_version": "4.4.2_12.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/appdaemon.png"
         },
         "deluge": {
@@ -1542,9 +1542,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/nginx-proxy-manager",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
-            "latest_app_version": "2.9.19",
-            "latest_human_version": "2.9.19_4.0.9",
+            "latest_version": "4.0.10",
+            "latest_app_version": "2.9.22",
+            "latest_human_version": "2.9.22_4.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/nginx-proxy-manager.png"
         },
         "sickgear": {
@@ -1556,9 +1556,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/sickgear",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.9",
+            "latest_version": "7.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_7.0.9",
+            "latest_human_version": "latest_7.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/sickgear.png"
         },
         "theme-park": {
@@ -1626,9 +1626,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/octoprint",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "9.0.9",
-            "latest_app_version": "1.8.6",
-            "latest_human_version": "1.8.6_9.0.9",
+            "latest_version": "9.0.10",
+            "latest_app_version": "1.8.7",
+            "latest_human_version": "1.8.7_9.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/octoprint.png"
         },
         "pgadmin": {
@@ -1640,9 +1640,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/pgadmin",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "10.0.9",
-            "latest_app_version": "6.20",
-            "latest_human_version": "6.20_10.0.9",
+            "latest_version": "10.0.11",
+            "latest_app_version": "7.0.0",
+            "latest_human_version": "7.0.0_10.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/pgadmin.png"
         },
         "navidrome": {
@@ -1710,9 +1710,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/medusa",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "6.0.9",
-            "latest_app_version": "1.0.11",
-            "latest_human_version": "1.0.11_6.0.9",
+            "latest_version": "6.0.11",
+            "latest_app_version": "1.0.13",
+            "latest_human_version": "1.0.13_6.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/medusa.png"
         },
         "pylon": {
@@ -1724,9 +1724,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/pylon",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.7",
+            "latest_version": "5.0.8",
             "latest_app_version": "2.9.0",
-            "latest_human_version": "2.9.0_5.0.7",
+            "latest_human_version": "2.9.0_5.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/pylon.png"
         },
         "habridge": {
@@ -1795,9 +1795,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/crafty-4",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "3.0.9",
-            "latest_app_version": "4.0.20",
-            "latest_human_version": "4.0.20_3.0.9",
+            "latest_version": "3.0.10",
+            "latest_app_version": "4.0.22",
+            "latest_human_version": "4.0.22_3.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/crafty-4.png"
         },
         "ml-workspace": {
@@ -1837,9 +1837,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/lidarr",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "16.0.3",
-            "latest_app_version": "1.1.3.2982",
-            "latest_human_version": "1.1.3.2982_16.0.3",
+            "latest_version": "16.0.5",
+            "latest_app_version": "1.1.4.3027",
+            "latest_human_version": "1.1.4.3027_16.0.5",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/lidarr.png"
         },
         "webtop": {
@@ -1851,9 +1851,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/webtop",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.10",
+            "latest_version": "5.0.11",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_5.0.10",
+            "latest_human_version": "latest_5.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png"
         },
         "duplicati": {
@@ -1921,9 +1921,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/beets",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.10",
+            "latest_version": "7.0.11",
             "latest_app_version": "1.6.0",
-            "latest_human_version": "1.6.0_7.0.10",
+            "latest_human_version": "1.6.0_7.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/beets.png"
         },
         "tautulli": {
@@ -1935,9 +1935,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/tautulli",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "14.0.9",
-            "latest_app_version": "2.11.1",
-            "latest_human_version": "2.11.1_14.0.9",
+            "latest_version": "14.0.10",
+            "latest_app_version": "2.12.3",
+            "latest_human_version": "2.12.3_14.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/tautulli.png"
         },
         "golinks": {
@@ -1979,9 +1979,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/homebox",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.9",
-            "latest_app_version": "0.8.2",
-            "latest_human_version": "0.8.2_2.0.9",
+            "latest_version": "2.0.10",
+            "latest_app_version": "0.9.1",
+            "latest_human_version": "0.9.1_2.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/homebox.png"
         },
         "unmanic": {
@@ -2035,9 +2035,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/tinymediamanager",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.9",
-            "latest_app_version": "4.3.7",
-            "latest_human_version": "4.3.7_5.0.9",
+            "latest_version": "5.0.10",
+            "latest_app_version": "4.3.10",
+            "latest_human_version": "4.3.10_5.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/tinymediamanager.png"
         },
         "minio": {
@@ -2049,9 +2049,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/minio",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "6.0.9",
+            "latest_version": "6.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_6.0.9",
+            "latest_human_version": "latest_6.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/minio.png"
         },
         "prowlarr": {
@@ -2063,9 +2063,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/prowlarr",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "11.0.3",
-            "latest_app_version": "1.3.1.2796",
-            "latest_human_version": "1.3.1.2796_11.0.3",
+            "latest_version": "11.0.6",
+            "latest_app_version": "1.4.0.3230",
+            "latest_human_version": "1.4.0.3230_11.0.6",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.png"
         },
         "authentik": {
@@ -2091,9 +2091,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/promcord",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.9",
+            "latest_version": "7.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_7.0.9",
+            "latest_human_version": "latest_7.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/promcord.png"
         },
         "reg": {
@@ -2105,9 +2105,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/reg",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "9.0.10",
+            "latest_version": "9.0.11",
             "latest_app_version": "2",
-            "latest_human_version": "2_9.0.10",
+            "latest_human_version": "2_9.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/reg.png"
         },
         "adminer": {
@@ -2133,9 +2133,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/qdirstat",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "3.0.13",
-            "latest_app_version": "23.02.2",
-            "latest_human_version": "23.02.2_3.0.13",
+            "latest_version": "4.0.1",
+            "latest_app_version": "23.03.1",
+            "latest_human_version": "23.03.1_4.0.1",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/qdirstat.png"
         },
         "audiobookshelf": {
@@ -2147,9 +2147,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/audiobookshelf",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.7",
-            "latest_app_version": "2.2.15",
-            "latest_human_version": "2.2.15_5.0.7",
+            "latest_version": "5.0.8",
+            "latest_app_version": "2.2.19",
+            "latest_human_version": "2.2.19_5.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/audiobookshelf.png"
         },
         "freshrss": {
@@ -2161,9 +2161,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/freshrss",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "14.0.8",
-            "latest_app_version": "1.20.2",
-            "latest_human_version": "1.20.2_14.0.8",
+            "latest_version": "14.0.11",
+            "latest_app_version": "1.21.0",
+            "latest_human_version": "1.21.0_14.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/freshrss.png"
         },
         "openkm": {
@@ -2189,9 +2189,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/kiwix-serve",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.10",
-            "latest_app_version": "3.4.0",
-            "latest_human_version": "3.4.0_4.0.10",
+            "latest_version": "4.0.11",
+            "latest_app_version": "3.5.0",
+            "latest_human_version": "3.5.0_4.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/kiwix-serve.png"
         },
         "lanraragi": {
@@ -2203,9 +2203,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/lanraragi",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.7",
-            "latest_app_version": "0.8.81",
-            "latest_human_version": "0.8.81_5.0.7",
+            "latest_version": "5.0.8",
+            "latest_app_version": "0.8.90",
+            "latest_human_version": "0.8.90_5.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/lanraragi.png"
         },
         "kopia": {
@@ -2231,9 +2231,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/gitea",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "12.0.31",
+            "latest_version": "13.0.0",
             "latest_app_version": "1.18.5",
-            "latest_human_version": "1.18.5_12.0.31",
+            "latest_human_version": "1.18.5_13.0.0",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/gitea.png"
         },
         "uptimerobot-prometheus": {
@@ -2245,9 +2245,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/uptimerobot-prometheus",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "6.0.8",
+            "latest_version": "7.0.0",
             "latest_app_version": "0.0.1",
-            "latest_human_version": "0.0.1_6.0.8",
+            "latest_human_version": "0.0.1_7.0.0",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/uptimerobot-prometheus.png"
         },
         "tvheadend": {
@@ -2259,9 +2259,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/tvheadend",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "15.0.11",
+            "latest_version": "15.0.13",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_15.0.11",
+            "latest_human_version": "latest_15.0.13",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/tvheadend.png"
         },
         "ddclient": {
@@ -2301,9 +2301,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/browserless-chrome",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.10",
-            "latest_app_version": "1.57.0",
-            "latest_human_version": "1.57.0_5.0.10",
+            "latest_version": "5.0.11",
+            "latest_app_version": "1.58.0",
+            "latest_human_version": "1.58.0_5.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/browserless-chrome.png"
         },
         "youtubedl-material": {
@@ -2329,9 +2329,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/plex",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "13.0.10",
-            "latest_app_version": "1.31.1.673",
-            "latest_human_version": "1.31.1.673_13.0.10",
+            "latest_version": "13.0.14",
+            "latest_app_version": "1.32.0.697",
+            "latest_human_version": "1.32.0.697_13.0.14",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/plex.png"
         },
         "makemkv": {
@@ -2362,20 +2362,6 @@
             "latest_human_version": "1.20_6.0.21",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/kimai.png"
         },
-        "wger": {
-            "name": "wger",
-            "categories": [
-                "life"
-            ],
-            "app_readme": "<p>Workout Manager is a free, open source web application that helps you manage your personal workouts, weight and diet plans and can also be used as a simple gym management utility.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/wger\">https://truecharts.org/charts/stable/wger</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
-            "location": "/home/runner/work/catalog/catalog/stable/wger",
-            "healthy": true,
-            "healthy_error": null,
-            "latest_version": "4.0.41",
-            "latest_app_version": "latest",
-            "latest_human_version": "latest_4.0.41",
-            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/wger.png"
-        },
         "satisfactory": {
             "name": "satisfactory",
             "categories": [
@@ -2385,9 +2371,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/satisfactory",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.7",
-            "latest_app_version": "1.4.6",
-            "latest_human_version": "1.4.6_5.0.7",
+            "latest_version": "5.0.8",
+            "latest_app_version": "1.4.8",
+            "latest_human_version": "1.4.8_5.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/satisfactory.png"
         },
         "xwiki": {
@@ -2399,9 +2385,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/xwiki",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.9",
-            "latest_app_version": "15.0.0",
-            "latest_human_version": "15.0.0_7.0.9",
+            "latest_version": "7.0.10",
+            "latest_app_version": "15.3.0",
+            "latest_human_version": "15.3.0_7.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/xwiki.png"
         },
         "kasm": {
@@ -2413,9 +2399,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/kasm",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
-            "latest_app_version": "1.12.0",
-            "latest_human_version": "1.12.0_4.0.9",
+            "latest_version": "4.0.10",
+            "latest_app_version": "1.13.0",
+            "latest_human_version": "1.13.0_4.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/kasm.png"
         },
         "kutt": {
@@ -2441,9 +2427,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/portainer-ce",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "3.0.14",
-            "latest_app_version": "2.17.1",
-            "latest_human_version": "2.17.1_3.0.14",
+            "latest_version": "3.0.15",
+            "latest_app_version": "2.18.1",
+            "latest_human_version": "2.18.1_3.0.15",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/portainer-ce.png"
         },
         "fluidd": {
@@ -2455,9 +2441,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/fluidd",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.9",
-            "latest_app_version": "1.23.2",
-            "latest_human_version": "1.23.2_5.0.9",
+            "latest_version": "5.0.10",
+            "latest_app_version": "1.23.3",
+            "latest_human_version": "1.23.3_5.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/fluidd.png"
         },
         "sickchill": {
@@ -2469,9 +2455,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/sickchill",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "6.0.9",
+            "latest_version": "6.0.10",
             "latest_app_version": "2023.1.2",
-            "latest_human_version": "2023.1.2_6.0.9",
+            "latest_human_version": "2023.1.2_6.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/sickchill.png"
         },
         "phpldapadmin": {
@@ -2511,9 +2497,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/cyberchef",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.10",
-            "latest_app_version": "9.55.0",
-            "latest_human_version": "9.55.0_5.0.10",
+            "latest_version": "5.0.12",
+            "latest_app_version": "10.4.0",
+            "latest_human_version": "10.4.0_5.0.12",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/cyberchef.png"
         },
         "xen-orchestra": {
@@ -2525,9 +2511,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/xen-orchestra",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.7",
-            "latest_app_version": "5.109.0",
-            "latest_human_version": "5.109.0_4.0.7",
+            "latest_version": "4.0.8",
+            "latest_app_version": "5.111.1",
+            "latest_human_version": "5.111.1_4.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/xen-orchestra.png"
         },
         "lancache-monolithic": {
@@ -2553,9 +2539,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/bazarr",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "14.0.10",
-            "latest_app_version": "1.1.4",
-            "latest_human_version": "1.1.4_14.0.10",
+            "latest_version": "14.0.12",
+            "latest_app_version": "1.2.0",
+            "latest_human_version": "1.2.0_14.0.12",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.png"
         },
         "pretend-youre-xyzzy": {
@@ -2581,9 +2567,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/qinglong",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.7",
-            "latest_app_version": "2.15.8",
-            "latest_human_version": "2.15.8_5.0.7",
+            "latest_version": "5.0.8",
+            "latest_app_version": "2.15.12",
+            "latest_human_version": "2.15.12_5.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/qinglong.png"
         },
         "handbrake": {
@@ -2595,9 +2581,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/handbrake",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "15.0.10",
-            "latest_app_version": "23.02.1",
-            "latest_human_version": "23.02.1_15.0.10",
+            "latest_version": "16.0.1",
+            "latest_app_version": "23.03.2",
+            "latest_human_version": "23.03.2_16.0.1",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/handbrake.png"
         },
         "duckdns": {
@@ -2651,9 +2637,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/znc",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.9",
+            "latest_version": "5.0.10",
             "latest_app_version": "1.8.2",
-            "latest_human_version": "1.8.2_5.0.9",
+            "latest_human_version": "1.8.2_5.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/znc.png"
         },
         "rsshub": {
@@ -2665,9 +2651,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/rsshub",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.9",
+            "latest_version": "7.0.13",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_7.0.9",
+            "latest_human_version": "latest_7.0.13",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png"
         },
         "anonaddy": {
@@ -2679,9 +2665,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/anonaddy",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "12.0.24",
-            "latest_app_version": "0.13.13",
-            "latest_human_version": "0.13.13_12.0.24",
+            "latest_version": "13.0.1",
+            "latest_app_version": "0.14.0",
+            "latest_human_version": "0.14.0_13.0.1",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/anonaddy.png"
         },
         "photoshow": {
@@ -2707,9 +2693,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/tdarr",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.9",
-            "latest_app_version": "2.00.19.1",
-            "latest_human_version": "2.00.19.1_5.0.9",
+            "latest_version": "5.0.10",
+            "latest_app_version": "2.00.20.1",
+            "latest_human_version": "2.00.20.1_5.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/tdarr.png"
         },
         "firefox": {
@@ -2769,20 +2755,6 @@
             "latest_app_version": "1.0.16",
             "latest_human_version": "1.0.16_7.0.9",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/amcrest2mqtt.png"
-        },
-        "inventree": {
-            "name": "inventree",
-            "categories": [
-                "utilities"
-            ],
-            "app_readme": "<p>InvenTree is an open-source Inventory Management System which provides powerful low-level stock control and part tracking.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/inventree\">https://truecharts.org/charts/stable/inventree</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
-            "location": "/home/runner/work/catalog/catalog/stable/inventree",
-            "healthy": true,
-            "healthy_error": null,
-            "latest_version": "7.0.33",
-            "latest_app_version": "0.8.4",
-            "latest_human_version": "0.8.4_7.0.33",
-            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/inventree.png"
         },
         "ser2sock": {
             "name": "ser2sock",
@@ -2851,9 +2823,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/onlyoffice-document-server",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "10.0.7",
-            "latest_app_version": "7.3.2",
-            "latest_human_version": "7.3.2_10.0.7",
+            "latest_version": "10.0.8",
+            "latest_app_version": "7.3.3",
+            "latest_human_version": "7.3.3_10.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/onlyoffice-document-server.png"
         },
         "blog": {
@@ -2922,9 +2894,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/guacd",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
-            "latest_app_version": "1.5.0",
-            "latest_human_version": "1.5.0_4.0.9",
+            "latest_version": "5.0.1",
+            "latest_app_version": "1.5.1",
+            "latest_human_version": "1.5.1_5.0.1",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/guacd.png"
         },
         "wg-easy": {
@@ -2936,9 +2908,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/wg-easy",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "3.0.8",
+            "latest_version": "4.0.1",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_3.0.8",
+            "latest_human_version": "latest_4.0.1",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png"
         },
         "pwndrop": {
@@ -2950,9 +2922,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/pwndrop",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.9",
+            "latest_version": "5.0.10",
             "latest_app_version": "1.0.1",
-            "latest_human_version": "1.0.1_5.0.9",
+            "latest_human_version": "1.0.1_5.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/pwndrop.png"
         },
         "homarr": {
@@ -2964,9 +2936,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/homarr",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.9",
-            "latest_app_version": "0.11.5",
-            "latest_human_version": "0.11.5_5.0.9",
+            "latest_version": "5.0.10",
+            "latest_app_version": "0.12.1",
+            "latest_human_version": "0.12.1_5.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/homarr.png"
         },
         "amule": {
@@ -2994,9 +2966,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/babybuddy",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "12.0.8",
-            "latest_app_version": "1.15.0",
-            "latest_human_version": "1.15.0_12.0.8",
+            "latest_version": "12.0.10",
+            "latest_app_version": "1.15.1",
+            "latest_human_version": "1.15.1_12.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/babybuddy.png"
         },
         "invidious": {
@@ -3022,9 +2994,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/fleet",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.10",
+            "latest_version": "7.0.11",
             "latest_app_version": "2.3.3",
-            "latest_human_version": "2.3.3_7.0.10",
+            "latest_human_version": "2.3.3_7.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/fleet.png"
         },
         "teamspeak3": {
@@ -3078,9 +3050,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/postgresql",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "13.0.9",
+            "latest_version": "13.0.11",
             "latest_app_version": "14.7.0",
-            "latest_human_version": "14.7.0_13.0.9",
+            "latest_human_version": "14.7.0_13.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/postgresql.png"
         },
         "digikam": {
@@ -3106,9 +3078,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/posterr",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
+            "latest_version": "4.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_4.0.9",
+            "latest_human_version": "latest_4.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/posterr.png"
         },
         "htpcmanager": {
@@ -3134,9 +3106,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/jellyseerr",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.9",
-            "latest_app_version": "1.4.1",
-            "latest_human_version": "1.4.1_5.0.9",
+            "latest_version": "5.0.10",
+            "latest_app_version": "1.5.0",
+            "latest_human_version": "1.5.0_5.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/jellyseerr.png"
         },
         "zusam": {
@@ -3162,9 +3134,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/dashdot",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
-            "latest_app_version": "4.9.1",
-            "latest_human_version": "4.9.1_4.0.9",
+            "latest_version": "4.0.10",
+            "latest_app_version": "5.1.3",
+            "latest_human_version": "5.1.3_4.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/dashdot.png"
         },
         "gotify": {
@@ -3190,9 +3162,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/airdcpp-webclient",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "6.0.9",
-            "latest_app_version": "2.11.3",
-            "latest_human_version": "2.11.3_6.0.9",
+            "latest_version": "6.0.10",
+            "latest_app_version": "2.11.4",
+            "latest_human_version": "2.11.4_6.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/airdcpp-webclient.png"
         },
         "shlink": {
@@ -3204,9 +3176,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/shlink",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "8.0.9",
-            "latest_app_version": "3.5.2",
-            "latest_human_version": "3.5.2_8.0.9",
+            "latest_version": "8.0.10",
+            "latest_app_version": "3.5.4",
+            "latest_human_version": "3.5.4_8.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/shlink.png"
         },
         "booksonic-air": {
@@ -3232,9 +3204,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/rss-bridge",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.7",
-            "latest_app_version": "2022",
-            "latest_human_version": "2022_5.0.7",
+            "latest_version": "5.0.8",
+            "latest_app_version": "2023",
+            "latest_human_version": "2023_5.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/rss-bridge.png"
         },
         "traccar": {
@@ -3288,9 +3260,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/openvscode-server",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.9",
-            "latest_app_version": "1.75.1",
-            "latest_human_version": "1.75.1_5.0.9",
+            "latest_version": "5.0.11",
+            "latest_app_version": "1.77.3",
+            "latest_human_version": "1.77.3_5.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/openvscode-server.png"
         },
         "tailscale": {
@@ -3302,9 +3274,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/tailscale",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.13",
-            "latest_app_version": "1.36.2",
-            "latest_human_version": "1.36.2_4.0.13",
+            "latest_version": "4.0.14",
+            "latest_app_version": "1.40.0",
+            "latest_human_version": "1.40.0_4.0.14",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/tailscale.png"
         },
         "airsonic-advanced": {
@@ -3316,9 +3288,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/airsonic-advanced",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.23",
+            "latest_version": "9.0.0",
             "latest_app_version": "11.0.0",
-            "latest_human_version": "11.0.0_7.0.23",
+            "latest_human_version": "11.0.0_9.0.0",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/airsonic-advanced.png"
         },
         "cryptofolio": {
@@ -3358,9 +3330,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/ispy-agent-dvr",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.9",
-            "latest_app_version": "4.5.3.0",
-            "latest_human_version": "4.5.3.0_5.0.9",
+            "latest_version": "5.0.11",
+            "latest_app_version": "4.7.2.0",
+            "latest_human_version": "4.7.2.0_5.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/ispy-agent-dvr.png"
         },
         "mylar": {
@@ -3372,9 +3344,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/mylar",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "9.0.9",
-            "latest_app_version": "0.7.0",
-            "latest_human_version": "0.7.0_9.0.9",
+            "latest_version": "9.0.11",
+            "latest_app_version": "0.7.1",
+            "latest_human_version": "0.7.1_9.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/mylar.png"
         },
         "foldingathome": {
@@ -3456,9 +3428,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/kanboard",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "12.0.7",
-            "latest_app_version": "1.2.26",
-            "latest_human_version": "1.2.26_12.0.7",
+            "latest_version": "12.0.8",
+            "latest_app_version": "1.2.28",
+            "latest_human_version": "1.2.28_12.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/kanboard.png"
         },
         "loki": {
@@ -3498,9 +3470,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/omada-controller",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "9.0.9",
+            "latest_version": "9.0.11",
             "latest_app_version": "5.9.0",
-            "latest_human_version": "5.9.0_9.0.9",
+            "latest_human_version": "5.9.0_9.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/omada-controller.png"
         },
         "shorturl": {
@@ -3554,9 +3526,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/whoogle",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "6.0.7",
-            "latest_app_version": "0.8.1",
-            "latest_human_version": "0.8.1_6.0.7",
+            "latest_version": "6.0.8",
+            "latest_app_version": "0.8.2",
+            "latest_human_version": "0.8.2_6.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/whoogle.png"
         },
         "zigbee2mqtt": {
@@ -3568,9 +3540,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/zigbee2mqtt",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.9",
-            "latest_app_version": "1.30.1",
-            "latest_human_version": "1.30.1_7.0.9",
+            "latest_version": "7.0.10",
+            "latest_app_version": "1.30.3",
+            "latest_human_version": "1.30.3_7.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/zigbee2mqtt.png"
         },
         "syncthing": {
@@ -3582,9 +3554,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/syncthing",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "14.0.8",
-            "latest_app_version": "1.23.1",
-            "latest_human_version": "1.23.1_14.0.8",
+            "latest_version": "14.0.9",
+            "latest_app_version": "1.23.4",
+            "latest_human_version": "1.23.4_14.0.9",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/syncthing.png"
         },
         "libremdb": {
@@ -3596,9 +3568,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/libremdb",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.9",
+            "latest_version": "2.0.14",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.9",
+            "latest_human_version": "latest_2.0.14",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png"
         },
         "valheim": {
@@ -3610,9 +3582,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/valheim",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.14",
+            "latest_version": "6.0.2",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_5.0.14",
+            "latest_human_version": "latest_6.0.2",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/valheim.png"
         },
         "jackett": {
@@ -3667,9 +3639,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/zerotier",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.7",
-            "latest_app_version": "1.10.3",
-            "latest_human_version": "1.10.3_5.0.7",
+            "latest_version": "5.0.8",
+            "latest_app_version": "1.10.6",
+            "latest_human_version": "1.10.6_5.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/zerotier.png"
         },
         "code-server": {
@@ -3681,9 +3653,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/code-server",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.9",
-            "latest_app_version": "4.10.0",
-            "latest_human_version": "4.10.0_7.0.9",
+            "latest_version": "7.0.11",
+            "latest_app_version": "4.12.0",
+            "latest_human_version": "4.12.0_7.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/code-server.png"
         },
         "leaf2mqtt": {
@@ -3751,9 +3723,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/mysql-workbench",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.7",
-            "latest_app_version": "8.0.32",
-            "latest_human_version": "8.0.32_5.0.7",
+            "latest_version": "5.0.9",
+            "latest_app_version": "8.0.33",
+            "latest_human_version": "8.0.33_5.0.9",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/mysql-workbench.png"
         },
         "muximux": {
@@ -3854,9 +3826,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/matomo",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.9",
-            "latest_app_version": "4.13.3",
-            "latest_human_version": "4.13.3_7.0.9",
+            "latest_version": "7.0.11",
+            "latest_app_version": "4.14.2",
+            "latest_human_version": "4.14.2_7.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/matomo.png"
         },
         "pixapop": {
@@ -3940,9 +3912,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/domoticz",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.20",
+            "latest_version": "5.0.1",
             "latest_app_version": "2023.1.202",
-            "latest_human_version": "2023.1.202_4.0.20",
+            "latest_human_version": "2023.1.202_5.0.1",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/domoticz.png"
         },
         "requestrr": {
@@ -3982,9 +3954,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/fireflyiii",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "20.0.9",
-            "latest_app_version": "5.7.18",
-            "latest_human_version": "5.7.18_20.0.9",
+            "latest_version": "20.0.11",
+            "latest_app_version": "6.0.9",
+            "latest_human_version": "6.0.9_20.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/fireflyiii.png"
         },
         "cops": {
@@ -4026,9 +3998,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/snapdrop",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.7",
+            "latest_version": "5.0.8",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_5.0.7",
+            "latest_human_version": "latest_5.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/snapdrop.png"
         },
         "headphones": {
@@ -4082,9 +4054,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/mstream",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "6.0.9",
+            "latest_version": "6.0.10",
             "latest_app_version": "5.11.4",
-            "latest_human_version": "5.11.4_6.0.9",
+            "latest_human_version": "5.11.4_6.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/mstream.png"
         },
         "remmina": {
@@ -4124,9 +4096,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/ubooquity",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.12",
+            "latest_version": "6.0.1",
             "latest_app_version": "2.1.2",
-            "latest_human_version": "2.1.2_5.0.12",
+            "latest_human_version": "2.1.2_6.0.1",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/ubooquity.png"
         },
         "cura-novnc": {
@@ -4167,9 +4139,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/libreddit",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
+            "latest_version": "4.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_4.0.9",
+            "latest_human_version": "latest_4.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/libreddit.png"
         },
         "nextpvr": {
@@ -4181,9 +4153,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/nextpvr",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.1.3",
+            "latest_version": "5.0.0",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_4.1.3",
+            "latest_human_version": "latest_5.0.0",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/nextpvr.png"
         },
         "papermerge": {
@@ -4237,9 +4209,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/putty",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "3.0.12",
-            "latest_app_version": "23.02.2",
-            "latest_human_version": "23.02.2_3.0.12",
+            "latest_version": "4.0.1",
+            "latest_app_version": "23.03.1",
+            "latest_human_version": "23.03.1_4.0.1",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/putty.png"
         },
         "jellyfin": {
@@ -4294,9 +4266,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/calibre-web",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "14.0.10",
-            "latest_app_version": "0.6.19",
-            "latest_human_version": "0.6.19_14.0.10",
+            "latest_version": "14.0.13",
+            "latest_app_version": "0.6.20",
+            "latest_human_version": "0.6.20_14.0.13",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/calibre-web.png"
         },
         "aria2": {
@@ -4322,9 +4294,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/homepage",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "3.0.9",
-            "latest_app_version": "0.6.9",
-            "latest_human_version": "0.6.9_3.0.9",
+            "latest_version": "3.0.10",
+            "latest_app_version": "0.6.16",
+            "latest_human_version": "0.6.16_3.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/homepage.png"
         },
         "dillinger": {
@@ -4350,9 +4322,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/baserow",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.9",
-            "latest_app_version": "1.14.0",
-            "latest_human_version": "1.14.0_7.0.9",
+            "latest_version": "7.0.10",
+            "latest_app_version": "1.16.0",
+            "latest_human_version": "1.16.0_7.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/baserow.png"
         },
         "quassel-web": {
@@ -4392,9 +4364,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/lazylibrarian",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "14.0.9",
+            "latest_version": "14.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_14.0.9",
+            "latest_human_version": "latest_14.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/lazylibrarian.png"
         },
         "esphome": {
@@ -4406,9 +4378,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/esphome",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "14.0.9",
-            "latest_app_version": "2023.2.4",
-            "latest_human_version": "2023.2.4_14.0.9",
+            "latest_version": "14.0.10",
+            "latest_app_version": "2023.4.2",
+            "latest_human_version": "2023.4.2_14.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/esphome.png"
         },
         "healthchecks": {
@@ -4420,9 +4392,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/healthchecks",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "9.0.8",
+            "latest_version": "10.0.0",
             "latest_app_version": "1.22.0",
-            "latest_human_version": "1.22.0_9.0.8",
+            "latest_human_version": "1.22.0_10.0.0",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/healthchecks.png"
         },
         "whisparr": {
@@ -4449,9 +4421,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/actualserver",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
-            "latest_app_version": "23.2.9",
-            "latest_human_version": "23.2.9_4.0.9",
+            "latest_version": "4.0.10",
+            "latest_app_version": "23.4.2",
+            "latest_human_version": "23.4.2_4.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/actualserver.png"
         },
         "unifi": {
@@ -4477,9 +4449,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/wikijs",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "11.0.9",
-            "latest_app_version": "2.5.297",
-            "latest_human_version": "2.5.297_11.0.9",
+            "latest_version": "11.0.10",
+            "latest_app_version": "2.5.298",
+            "latest_human_version": "2.5.298_11.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/wikijs.png"
         },
         "nntp2nntp": {
@@ -4491,9 +4463,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/nntp2nntp",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
+            "latest_version": "5.0.0",
             "latest_app_version": "0.3.202210",
-            "latest_human_version": "0.3.202210_4.0.9",
+            "latest_human_version": "0.3.202210_5.0.0",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/nntp2nntp.png"
         },
         "wbo": {
@@ -4533,9 +4505,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/custom-app",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.23",
+            "latest_version": "8.0.0",
             "latest_app_version": "0.20.2297",
-            "latest_human_version": "0.20.2297_7.0.23",
+            "latest_human_version": "0.20.2297_8.0.0",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png"
         },
         "mediainfo": {
@@ -4659,24 +4631,10 @@
             "location": "/home/runner/work/catalog/catalog/stable/calibre",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "10.0.8",
-            "latest_app_version": "6.13.0",
-            "latest_human_version": "6.13.0_10.0.8",
+            "latest_version": "10.0.9",
+            "latest_app_version": "6.17.0",
+            "latest_human_version": "6.17.0_10.0.9",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/calibre.png"
-        },
-        "protonmail-bridge": {
-            "name": "protonmail-bridge",
-            "categories": [
-                "media"
-            ],
-            "app_readme": "<p>Container for protonmail bridge to work on the network.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/protonmail-bridge\">https://truecharts.org/charts/stable/protonmail-bridge</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
-            "location": "/home/runner/work/catalog/catalog/stable/protonmail-bridge",
-            "healthy": true,
-            "healthy_error": null,
-            "latest_version": "9.0.11",
-            "latest_app_version": "3.0.17",
-            "latest_human_version": "3.0.17_9.0.11",
-            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/protonmail-bridge.png"
         },
         "logitech-media-server": {
             "name": "logitech-media-server",
@@ -4688,9 +4646,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/logitech-media-server",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.9",
+            "latest_version": "7.0.10",
             "latest_app_version": "8.4.0",
-            "latest_human_version": "8.4.0_7.0.9",
+            "latest_human_version": "8.4.0_7.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/logitech-media-server.png"
         },
         "website-shot": {
@@ -4747,9 +4705,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/plex-auto-languages",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
+            "latest_version": "4.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_4.0.9",
+            "latest_human_version": "latest_4.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/plex-auto-languages.png"
         },
         "deemix": {
@@ -4789,9 +4747,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/sonarr",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "15.0.10",
-            "latest_app_version": "3.0.9.1549",
-            "latest_human_version": "3.0.9.1549_15.0.10",
+            "latest_version": "15.0.11",
+            "latest_app_version": "3.0.10.156",
+            "latest_human_version": "3.0.10.156_15.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/sonarr.png"
         },
         "ntfy": {
@@ -4803,9 +4761,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/ntfy",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.14",
-            "latest_app_version": "2.1.0",
-            "latest_human_version": "2.1.0_4.0.14",
+            "latest_version": "5.0.1",
+            "latest_app_version": "2.4.0",
+            "latest_human_version": "2.4.0_5.0.1",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/ntfy.png"
         },
         "wordpress": {
@@ -4917,9 +4875,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/soft-serve",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.9",
-            "latest_app_version": "0.4.6",
-            "latest_human_version": "0.4.6_2.0.9",
+            "latest_version": "2.0.10",
+            "latest_app_version": "0.4.7",
+            "latest_human_version": "0.4.7_2.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/soft-serve.png"
         },
         "statping": {
@@ -4946,9 +4904,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/discordgsm",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.9",
-            "latest_app_version": "2.11.0",
-            "latest_human_version": "2.11.0_2.0.9",
+            "latest_version": "2.0.10",
+            "latest_app_version": "2.12.1",
+            "latest_human_version": "2.12.1_2.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/discordgsm.png"
         },
         "storj-node": {
@@ -5002,9 +4960,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/shlink-web-client",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "6.0.9",
-            "latest_app_version": "3.9.1",
-            "latest_human_version": "3.9.1_6.0.9",
+            "latest_version": "6.0.10",
+            "latest_app_version": "3.10.1",
+            "latest_human_version": "3.10.1_6.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/shlink-web-client.png"
         },
         "webgrabplus": {
@@ -5016,9 +4974,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/webgrabplus",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.10",
+            "latest_version": "5.0.11",
             "latest_app_version": "5.0.1",
-            "latest_human_version": "5.0.1_5.0.10",
+            "latest_human_version": "5.0.1_5.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/webgrabplus.png"
         },
         "deepstack": {
@@ -5044,9 +5002,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/kodi-headless",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.11",
+            "latest_version": "5.0.0",
             "latest_app_version": "190",
-            "latest_human_version": "190_4.0.11",
+            "latest_human_version": "190_5.0.0",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/kodi-headless.png"
         },
         "iyuuplus": {
@@ -5072,9 +5030,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/doublecommander",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.10",
+            "latest_version": "7.0.11",
             "latest_app_version": "0.8.2",
-            "latest_human_version": "0.8.2_7.0.10",
+            "latest_human_version": "0.8.2_7.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/doublecommander.png"
         },
         "xteve": {
@@ -5114,9 +5072,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/unpoller",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "6.0.8",
-            "latest_app_version": "2.7.11",
-            "latest_human_version": "2.7.11_6.0.8",
+            "latest_version": "6.0.9",
+            "latest_app_version": "2.7.13",
+            "latest_human_version": "2.7.13_6.0.9",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/unpoller.png"
         },
         "vikunja": {
@@ -5128,9 +5086,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/vikunja",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "6.0.34",
-            "latest_app_version": "0.20.2",
-            "latest_human_version": "0.20.2_6.0.34",
+            "latest_version": "8.0.1",
+            "latest_app_version": "0.20.4",
+            "latest_human_version": "0.20.4_8.0.1",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/vikunja.png"
         },
         "ipfs": {
@@ -5142,9 +5100,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/ipfs",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "6.0.9",
-            "latest_app_version": "0.18.1",
-            "latest_human_version": "0.18.1_6.0.9",
+            "latest_version": "6.0.10",
+            "latest_app_version": "0.19.1",
+            "latest_human_version": "0.19.1_6.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/ipfs.png"
         },
         "meshroom": {
@@ -5170,9 +5128,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/hyperion-ng",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "9.0.9",
-            "latest_app_version": "2.0.14",
-            "latest_human_version": "2.0.14_9.0.9",
+            "latest_version": "9.0.10",
+            "latest_app_version": "2.0.15",
+            "latest_human_version": "2.0.15_9.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/hyperion-ng.png"
         },
         "tt-rss": {
@@ -5184,9 +5142,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/tt-rss",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "10.0.23",
+            "latest_version": "11.0.0",
             "latest_app_version": "2.0.9113",
-            "latest_human_version": "2.0.9113_10.0.23",
+            "latest_human_version": "2.0.9113_11.0.0",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/tt-rss.png"
         },
         "authelia": {
@@ -5226,9 +5184,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/recyclarr",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
-            "latest_app_version": "4.2.0",
-            "latest_human_version": "4.2.0_4.0.9",
+            "latest_version": "4.0.10",
+            "latest_app_version": "4.4.1",
+            "latest_human_version": "4.4.1_4.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/recyclarr.png"
         },
         "syslog-ng": {
@@ -5240,9 +5198,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/syslog-ng",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.7",
-            "latest_app_version": "4.0.1",
-            "latest_human_version": "4.0.1_5.0.7",
+            "latest_version": "5.0.8",
+            "latest_app_version": "4.1.1",
+            "latest_human_version": "4.1.1_5.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/syslog-ng.png"
         },
         "qbitmanage": {
@@ -5255,9 +5213,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/qbitmanage",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
-            "latest_app_version": "3.4.3",
-            "latest_human_version": "3.4.3_4.0.9",
+            "latest_version": "4.0.11",
+            "latest_app_version": "3.6.2",
+            "latest_human_version": "3.6.2_4.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/qbitmanage.png"
         },
         "plex-utills": {
@@ -5284,9 +5242,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/tsmuxer",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "3.0.14",
-            "latest_app_version": "23.02.3",
-            "latest_human_version": "23.02.3_3.0.14",
+            "latest_version": "4.0.1",
+            "latest_app_version": "23.03.1",
+            "latest_human_version": "23.03.1_4.0.1",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/tsmuxer.png"
         },
         "autoscan": {
@@ -5312,9 +5270,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/littlelink",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "9.0.9",
+            "latest_version": "9.0.11",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_9.0.9",
+            "latest_human_version": "latest_9.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png"
         },
         "external-service": {
@@ -5340,9 +5298,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/clamav",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.16",
+            "latest_version": "6.0.1",
             "latest_app_version": "1.0.1",
-            "latest_human_version": "1.0.1_5.0.16",
+            "latest_human_version": "1.0.1_6.0.1",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/clamav.png"
         },
         "minecraft-java": {
@@ -5354,9 +5312,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/minecraft-java",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.9",
+            "latest_version": "4.0.10",
             "latest_app_version": "2023.3.0",
-            "latest_human_version": "2023.3.0_4.0.9",
+            "latest_human_version": "2023.3.0_4.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/minecraft-java.png"
         },
         "redmine": {
@@ -5368,9 +5326,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/redmine",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.9",
-            "latest_app_version": "5.0.4",
-            "latest_human_version": "5.0.4_7.0.9",
+            "latest_version": "7.0.11",
+            "latest_app_version": "5.0.5",
+            "latest_human_version": "5.0.5_7.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/redmine.png"
         },
         "clarkson": {
@@ -5410,9 +5368,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/autobrr",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.7",
-            "latest_app_version": "1.18.0",
-            "latest_human_version": "1.18.0_4.0.7",
+            "latest_version": "4.0.8",
+            "latest_app_version": "1.24.1",
+            "latest_human_version": "1.24.1_4.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/autobrr.png"
         },
         "youtrack": {
@@ -5480,9 +5438,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/sabnzbd",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "14.0.9",
-            "latest_app_version": "3.7.2",
-            "latest_human_version": "3.7.2_14.0.9",
+            "latest_version": "14.0.11",
+            "latest_app_version": "4.0.0",
+            "latest_human_version": "4.0.0_14.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/sabnzbd.png"
         },
         "zwavejs2mqtt": {
@@ -5494,9 +5452,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/zwavejs2mqtt",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "15.0.9",
-            "latest_app_version": "8.9.0",
-            "latest_human_version": "8.9.0_15.0.9",
+            "latest_version": "15.0.10",
+            "latest_app_version": "8.14.2",
+            "latest_human_version": "8.14.2_15.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/zwavejs2mqtt.png"
         },
         "miniflux": {
@@ -5522,9 +5480,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/smokeping",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.8",
+            "latest_version": "6.0.0",
             "latest_app_version": "2.7.3",
-            "latest_human_version": "2.7.3_5.0.8",
+            "latest_human_version": "2.7.3_6.0.0",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/smokeping.png"
         }
     },
@@ -5585,20 +5543,6 @@
             "latest_app_version": "latest",
             "latest_human_version": "latest_2.0.9",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/barotrauma.png"
-        },
-        "blender": {
-            "name": "blender",
-            "categories": [
-                "Other"
-            ],
-            "app_readme": "<p>Blender(https://www.blender.org/) is a free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models, motion graphics, interactive 3D applications, virtual reality, and computer games. <strong>This image does not support GPU rendering out of the box only accelerated workspace experience</strong></p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/incubator/blender\">https://truecharts.org/charts/incubator/blender</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
-            "location": "/home/runner/work/catalog/catalog/incubator/blender",
-            "healthy": true,
-            "healthy_error": null,
-            "latest_version": "2.0.18",
-            "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.18",
-            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/blender.png"
         },
         "ecodms": {
             "name": "ecodms",
@@ -5755,9 +5699,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/gridcoinwalletgui",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.10",
+            "latest_version": "2.0.11",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.10",
+            "latest_human_version": "latest_2.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/gridcoinwalletgui.png"
         },
         "github-backup": {
@@ -5827,9 +5771,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/vertex",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.20",
+            "latest_version": "2.0.21",
             "latest_app_version": "stable",
-            "latest_human_version": "stable_2.0.20",
+            "latest_human_version": "stable_2.0.21",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/vertex.png"
         },
         "jitsi": {
@@ -5845,6 +5789,21 @@
             "latest_app_version": "8252",
             "latest_human_version": "8252_2.0.17",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/jitsi.png"
+        },
+        "mongo-express": {
+            "name": "mongo-express",
+            "categories": [
+                "database",
+                "utilities"
+            ],
+            "app_readme": "<p>mongo-express is a web-based MongoDB admin interface written in Node.js, Express.js, and Bootstrap3.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/incubator/mongo-express\">https://truecharts.org/charts/incubator/mongo-express</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "location": "/home/runner/work/catalog/catalog/incubator/mongo-express",
+            "healthy": true,
+            "healthy_error": null,
+            "latest_version": "0.0.1",
+            "latest_app_version": "latest",
+            "latest_human_version": "latest_0.0.1",
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/mongo-express.png"
         },
         "redm": {
             "name": "redm",
@@ -5976,9 +5935,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/kitana",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.9",
+            "latest_version": "2.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.9",
+            "latest_human_version": "latest_2.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/kitana.png"
         },
         "phpmyadmin": {
@@ -6068,9 +6027,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/dockerregistry",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.11",
+            "latest_version": "2.0.12",
             "latest_app_version": "2",
-            "latest_human_version": "2_2.0.11",
+            "latest_human_version": "2_2.0.12",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/dockerregistry.png"
         },
         "misskey": {
@@ -6115,9 +6074,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/yourls",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.15",
+            "latest_version": "2.0.16",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.15",
+            "latest_human_version": "latest_2.0.16",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/yourls.png"
         },
         "batnoter": {
@@ -6516,9 +6475,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/kdenlive",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.19",
+            "latest_version": "2.0.20",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.19",
+            "latest_human_version": "latest_2.0.20",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/kdenlive.png"
         },
         "suistartpage": {
@@ -6615,9 +6574,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/tar1090",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.14",
+            "latest_version": "2.0.15",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.14",
+            "latest_human_version": "latest_2.0.15",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/tar1090.png"
         },
         "newyearcountdownclock": {
@@ -6630,9 +6589,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/newyearcountdownclock",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.10",
+            "latest_version": "2.0.11",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.10",
+            "latest_human_version": "latest_2.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/newyearcountdownclock.png"
         },
         "hoobs": {
@@ -6659,9 +6618,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/cloudcommander",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.12",
+            "latest_version": "2.0.13",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.12",
+            "latest_human_version": "latest_2.0.13",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/cloudcommander.png"
         },
         "gokapi": {
@@ -6674,9 +6633,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/gokapi",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.10",
-            "latest_app_version": "1.6.2",
-            "latest_human_version": "1.6.2_2.0.10",
+            "latest_version": "2.0.11",
+            "latest_app_version": "1.7.1",
+            "latest_human_version": "1.7.1_2.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/gokapi.png"
         },
         "serviio": {
@@ -6765,9 +6724,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/twonky-server",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.18",
+            "latest_version": "2.0.19",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.18",
+            "latest_human_version": "latest_2.0.19",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/twonky-server.png"
         },
         "quiz-game": {
@@ -6840,9 +6799,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/passwordpusherephemeral",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.25",
+            "latest_version": "2.0.26",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.25",
+            "latest_human_version": "latest_2.0.26",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/passwordpusherephemeral.png"
         },
         "namecheap-ddns": {
@@ -6884,9 +6843,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/sftpgo",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.12",
+            "latest_version": "2.0.13",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.12",
+            "latest_human_version": "latest_2.0.13",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/sftpgo.png"
         },
         "noisedash": {
@@ -6975,20 +6934,6 @@
             "latest_human_version": "latest_2.0.9",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/s3backup.png"
         },
-        "privatebin": {
-            "name": "privatebin",
-            "categories": [
-                "productivity"
-            ],
-            "app_readme": "<p>PrivateBin is a minimalist, open source online pastebin where the server has zero knowledge of pasted data.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/incubator/privatebin\">https://truecharts.org/charts/incubator/privatebin</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
-            "location": "/home/runner/work/catalog/catalog/incubator/privatebin",
-            "healthy": true,
-            "healthy_error": null,
-            "latest_version": "3.0.29",
-            "latest_app_version": "1.5.1",
-            "latest_human_version": "1.5.1_3.0.29",
-            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/privatebin.png"
-        },
         "amvd": {
             "name": "amvd",
             "categories": [
@@ -7013,9 +6958,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/dns-doh-companion",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.13",
+            "latest_version": "2.0.14",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.13",
+            "latest_human_version": "latest_2.0.14",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/dns-doh-companion.png"
         },
         "self-service-password": {
@@ -7071,9 +7016,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/tubesync",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.12",
+            "latest_version": "2.0.13",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.12",
+            "latest_human_version": "latest_2.0.13",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/tubesync.png"
         },
         "docspell": {
@@ -7099,9 +7044,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/qflood",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.12",
+            "latest_version": "2.0.13",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.12",
+            "latest_human_version": "latest_2.0.13",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/qflood.png"
         },
         "filegator": {
@@ -7159,9 +7104,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/neko",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.25",
+            "latest_version": "2.0.26",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.25",
+            "latest_human_version": "latest_2.0.26",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/neko.png"
         },
         "bender": {
@@ -7204,9 +7149,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/fluttercoin-wallet",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.9",
+            "latest_version": "2.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.9",
+            "latest_human_version": "latest_2.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/fluttercoin-wallet.png"
         },
         "goaccess-npm-logs": {
@@ -7219,9 +7164,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/goaccess-npm-logs",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.13",
+            "latest_version": "2.0.14",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.13",
+            "latest_human_version": "latest_2.0.14",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/goaccess-npm-logs.png"
         },
         "blender-desktop-g3": {
@@ -7236,9 +7181,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/blender-desktop-g3",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.10",
+            "latest_version": "2.0.11",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.10",
+            "latest_human_version": "latest_2.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/blender-desktop-g3.png"
         },
         "necesse": {
@@ -7338,9 +7283,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/freecad-desktop-g3",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.9",
+            "latest_version": "2.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.9",
+            "latest_human_version": "latest_2.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/freecad-desktop-g3.png"
         },
         "pavlovvr": {
@@ -7440,9 +7385,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/tasmocompiler",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.13",
+            "latest_version": "2.0.14",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.13",
+            "latest_human_version": "latest_2.0.14",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/tasmocompiler.png"
         },
         "apache-webdav": {
@@ -7530,9 +7475,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/barcodebuddy",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.11",
+            "latest_version": "2.0.12",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.11",
+            "latest_human_version": "latest_2.0.12",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/barcodebuddy.png"
         },
         "orbital-sync": {
@@ -7618,9 +7563,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/gpodder",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.9",
+            "latest_version": "2.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.9",
+            "latest_human_version": "latest_2.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/gpodder.png"
         },
         "megasync": {
@@ -7635,9 +7580,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/megasync",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.9",
+            "latest_version": "2.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.9",
+            "latest_human_version": "latest_2.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/megasync.png"
         },
         "flemarr": {
@@ -7668,9 +7613,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/webp-server",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.15",
+            "latest_version": "2.0.16",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.15",
+            "latest_human_version": "latest_2.0.16",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/webp-server.png"
         },
         "flextv": {
@@ -7754,9 +7699,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/yacreaderlibraryserver",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.10",
+            "latest_version": "2.0.11",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.10",
+            "latest_human_version": "latest_2.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/yacreaderlibraryserver.png"
         },
         "sonarqube": {
@@ -7853,9 +7798,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/tubearchivist-redisjson",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.14",
+            "latest_version": "2.0.15",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.14",
+            "latest_human_version": "latest_2.0.15",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/tubearchivist-redisjson.png"
         },
         "splunk": {
@@ -7968,9 +7913,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/restic-rest-server",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.9",
+            "latest_version": "2.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.9",
+            "latest_human_version": "latest_2.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/restic-rest-server.png"
         },
         "red-discordbot": {
@@ -7982,9 +7927,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/red-discordbot",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.15",
+            "latest_version": "2.0.16",
             "latest_app_version": "full",
-            "latest_human_version": "full_2.0.15",
+            "latest_human_version": "full_2.0.16",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/red-discordbot.png"
         },
         "metatube": {
@@ -8013,9 +7958,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/raneto",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.14",
+            "latest_version": "2.0.15",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.14",
+            "latest_human_version": "latest_2.0.15",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/raneto.png"
         },
         "pwm": {
@@ -8098,9 +8043,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/backuppc",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.15",
+            "latest_version": "2.0.16",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.15",
+            "latest_human_version": "latest_2.0.16",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/backuppc.png"
         },
         "yacy": {
@@ -8113,9 +8058,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/yacy",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.15",
+            "latest_version": "2.0.16",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.15",
+            "latest_human_version": "latest_2.0.16",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/yacy.png"
         },
         "cups-server": {
@@ -8201,9 +8146,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/krusader",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.9",
+            "latest_version": "2.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.9",
+            "latest_human_version": "latest_2.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/krusader.png"
         },
         "amtd": {
@@ -8348,9 +8293,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/telethon-downloader",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.9",
+            "latest_version": "2.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.9",
+            "latest_human_version": "latest_2.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/telethon-downloader.png"
         },
         "dvblink": {
@@ -8378,9 +8323,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/universal-media-server",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.14",
+            "latest_version": "2.0.15",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.14",
+            "latest_human_version": "latest_2.0.15",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/universal-media-server.png"
         },
         "magicmirror2": {
@@ -8450,9 +8395,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/rstudio",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "3.0.6",
-            "latest_app_version": "4.2.2",
-            "latest_human_version": "4.2.2_3.0.6",
+            "latest_version": "3.0.8",
+            "latest_app_version": "4.3.0",
+            "latest_human_version": "4.3.0_3.0.8",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/rstudio.png"
         },
         "traefik-forward-auth": {
@@ -8512,9 +8457,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/rapidphotodownloader",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.9",
+            "latest_version": "2.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.9",
+            "latest_human_version": "latest_2.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/rapidphotodownloader.png"
         },
         "rss-proxy": {
@@ -8547,20 +8492,6 @@
             "latest_human_version": "latest_2.0.9",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/vintage-story.png"
         },
-        "microbin": {
-            "name": "microbin",
-            "categories": [
-                "utility"
-            ],
-            "app_readme": "<p>MicroBin is a super tiny, feature rich, configurable, self-contained and self-hosted paste bin web application.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/incubator/microbin\">https://truecharts.org/charts/incubator/microbin</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
-            "location": "/home/runner/work/catalog/catalog/incubator/microbin",
-            "healthy": true,
-            "healthy_error": null,
-            "latest_version": "2.0.9",
-            "latest_app_version": "1.2.0",
-            "latest_human_version": "1.2.0_2.0.9",
-            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/microbin.png"
-        },
         "debian-bullseye": {
             "name": "debian-bullseye",
             "categories": [
@@ -8571,9 +8502,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/debian-bullseye",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.1.8",
+            "latest_version": "2.1.9",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.1.8",
+            "latest_human_version": "latest_2.1.9",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/debian-bullseye.png"
         },
         "virt-manager": {
@@ -8672,9 +8603,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/spaceengineers",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.10",
+            "latest_version": "2.0.11",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.10",
+            "latest_human_version": "latest_2.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/spaceengineers.png"
         },
         "fastcom-mqtt": {
@@ -8700,9 +8631,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/speedtest-tracker",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "3.0.31",
+            "latest_version": "4.0.2",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_3.0.31",
+            "latest_human_version": "latest_4.0.2",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/speedtest-tracker.png"
         },
         "artifactory-oss": {
@@ -8715,9 +8646,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/artifactory-oss",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.18",
-            "latest_app_version": "7.49.8",
-            "latest_human_version": "7.49.8_2.0.18",
+            "latest_version": "2.0.19",
+            "latest_app_version": "7.55.10",
+            "latest_human_version": "7.55.10_2.0.19",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/artifactory-oss.png"
         },
         "mediagoblin": {
@@ -8734,21 +8665,6 @@
             "latest_human_version": "latest_2.0.9",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/mediagoblin.png"
         },
-        "muse": {
-            "name": "muse",
-            "categories": [
-                "media",
-                "discord-bot"
-            ],
-            "app_readme": "<p>A self-hosted midwestern Discord music bot that doesn't suck.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/incubator/muse\">https://truecharts.org/charts/incubator/muse</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
-            "location": "/home/runner/work/catalog/catalog/incubator/muse",
-            "healthy": true,
-            "healthy_error": null,
-            "latest_version": "0.0.2",
-            "latest_app_version": "2.2.0",
-            "latest_human_version": "2.2.0_0.0.2",
-            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/muse.png"
-        },
         "docker-hub-rss": {
             "name": "docker-hub-rss",
             "categories": [
@@ -8760,9 +8676,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/docker-hub-rss",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.10",
+            "latest_version": "2.0.11",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.10",
+            "latest_human_version": "latest_2.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/docker-hub-rss.png"
         },
         "nosqlclient": {
@@ -8821,9 +8737,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/fileshelter",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.11",
+            "latest_version": "2.0.12",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.11",
+            "latest_human_version": "latest_2.0.12",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/fileshelter.png"
         },
         "frigate": {
@@ -8851,9 +8767,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/firefox-desktop-g3",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.17",
+            "latest_version": "2.0.18",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.17",
+            "latest_human_version": "latest_2.0.18",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/firefox-desktop-g3.png"
         },
         "rflood": {
@@ -8865,9 +8781,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/rflood",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.10",
+            "latest_version": "2.0.11",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.10",
+            "latest_human_version": "latest_2.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/rflood.png"
         },
         "clipplex": {
@@ -8940,20 +8856,6 @@
             "latest_human_version": "1.0.0_3.0.9",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/drone-runner.png"
         },
-        "netbox": {
-            "name": "netbox",
-            "categories": [
-                "network"
-            ],
-            "app_readme": "<p>NetBox is the leading solution for modeling and documenting modern networks.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/incubator/netbox\">https://truecharts.org/charts/incubator/netbox</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
-            "location": "/home/runner/work/catalog/catalog/incubator/netbox",
-            "healthy": true,
-            "healthy_error": null,
-            "latest_version": "3.0.38",
-            "latest_app_version": "3.4.5",
-            "latest_human_version": "3.4.5_3.0.38",
-            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/netbox.png"
-        },
         "sqlite-web": {
             "name": "sqlite-web",
             "categories": [
@@ -8993,9 +8895,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/tracks",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.14",
+            "latest_version": "2.0.15",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.14",
+            "latest_human_version": "latest_2.0.15",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/tracks.png"
         },
         "hetzner-ddns": {
@@ -9021,9 +8923,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/grafana-image-renderer",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.12",
+            "latest_version": "2.0.13",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.12",
+            "latest_human_version": "latest_2.0.13",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/grafana-image-renderer.png"
         },
         "z80pack": {
@@ -9093,9 +8995,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/filestash",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.15",
+            "latest_version": "2.0.17",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.15",
+            "latest_human_version": "latest_2.0.17",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/filestash.png"
         },
         "linkwallet": {
@@ -9152,9 +9054,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/opengl-desktop-g3",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.10",
+            "latest_version": "2.0.11",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.10",
+            "latest_human_version": "latest_2.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/opengl-desktop-g3.png"
         },
         "pastey": {
@@ -9240,9 +9142,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/quickshare",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.10",
+            "latest_version": "2.0.11",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.10",
+            "latest_human_version": "latest_2.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/quickshare.png"
         },
         "fmd2-wine": {
@@ -9503,9 +9405,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/core-keeper-dedicated-server",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.9",
+            "latest_version": "2.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.9",
+            "latest_human_version": "latest_2.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/core-keeper-dedicated-server.png"
         },
         "debian-apt-mirror": {
@@ -9580,9 +9482,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/venstar2mqtt",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.9",
+            "latest_version": "2.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.9",
+            "latest_human_version": "latest_2.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/venstar2mqtt.png"
         },
         "hassconfigurator": {
@@ -9652,9 +9554,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/archiveteam-warrior",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.11",
+            "latest_version": "2.0.12",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.11",
+            "latest_human_version": "latest_2.0.12",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/archiveteam-warrior.png"
         },
         "cssource": {
@@ -9695,9 +9597,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/sia-daemon",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.12",
+            "latest_version": "2.0.13",
             "latest_app_version": "master",
-            "latest_human_version": "master_2.0.12",
+            "latest_human_version": "master_2.0.13",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/sia-daemon.png"
         },
         "cloudbeaver": {
@@ -9710,9 +9612,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/cloudbeaver",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.16",
+            "latest_version": "2.0.17",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.16",
+            "latest_human_version": "latest_2.0.17",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/cloudbeaver.png"
         },
         "moviegrabber": {
@@ -9767,9 +9669,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/multi-scrobbler",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.10",
+            "latest_version": "2.0.11",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.10",
+            "latest_human_version": "latest_2.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/multi-scrobbler.png"
         },
         "storm": {
@@ -9823,9 +9725,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/auto-yt-dl",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.12",
+            "latest_version": "2.0.13",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.12",
+            "latest_human_version": "latest_2.0.13",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/auto-yt-dl.png"
         },
         "wizarr": {
@@ -9854,9 +9756,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/chromium",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.16",
+            "latest_version": "2.0.17",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.16",
+            "latest_human_version": "latest_2.0.17",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/chromium.png"
         },
         "cstrikeconditionzero": {
@@ -9940,9 +9842,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/zoneminder",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.12",
+            "latest_version": "2.0.13",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.12",
+            "latest_human_version": "latest_2.0.13",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/zoneminder.png"
         },
         "starmade": {
@@ -10069,9 +9971,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/teedy-docs",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.10",
+            "latest_version": "2.0.11",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.10",
+            "latest_human_version": "latest_2.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/teedy-docs.png"
         },
         "sourcegraph": {
@@ -10087,9 +9989,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/sourcegraph",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.17",
-            "latest_app_version": "4.5.1",
-            "latest_human_version": "4.5.1_2.0.17",
+            "latest_version": "2.0.18",
+            "latest_app_version": "5.0.2",
+            "latest_human_version": "5.0.2_2.0.18",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/sourcegraph.png"
         },
         "midarr": {
@@ -10117,9 +10019,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/aurora-files",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.9",
+            "latest_version": "2.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.9",
+            "latest_human_version": "latest_2.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/aurora-files.png"
         },
         "jmzhomeproxy": {
@@ -10256,26 +10158,6 @@
             "latest_human_version": "latest_2.0.9",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/dailynotes.png"
         },
-        "radicale": {
-            "name": "radicale",
-            "categories": [
-                "radicale",
-                "CalDAV",
-                "CardDAV",
-                "calendars",
-                "contacts",
-                "tasks",
-                "to-do"
-            ],
-            "app_readme": "<p>Radicale is a small but powerful CalDAV (calendars, to-do lists) and CardDAV (contacts) server.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/incubator/radicale\">https://truecharts.org/charts/incubator/radicale</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
-            "location": "/home/runner/work/catalog/catalog/incubator/radicale",
-            "healthy": true,
-            "healthy_error": null,
-            "latest_version": "2.0.10",
-            "latest_app_version": "3.1.8.1",
-            "latest_human_version": "3.1.8.1_2.0.10",
-            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/radicale.png"
-        },
         "monero-node": {
             "name": "monero-node",
             "categories": [
@@ -10316,9 +10198,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/cryptpad",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.25",
+            "latest_version": "2.0.26",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.25",
+            "latest_human_version": "latest_2.0.26",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/cryptpad.png"
         },
         "alienswarm-reactivedrop": {
@@ -10416,9 +10298,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/funkwhale",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.1.9",
-            "latest_app_version": "1.2.9",
-            "latest_human_version": "1.2.9_2.1.9",
+            "latest_version": "2.1.10",
+            "latest_app_version": "1.2.10",
+            "latest_human_version": "1.2.10_2.1.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/funkwhale.png"
         },
         "shaarli": {
@@ -10449,6 +10331,20 @@
             "latest_app_version": "latest",
             "latest_human_version": "latest_2.0.9",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/fotosho.png"
+        },
+        "sshwifty": {
+            "name": "sshwifty",
+            "categories": [
+                "ssh"
+            ],
+            "app_readme": "<p>SSHwifty is a SSH and Telnet connector made for the Web.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/incubator/sshwifty\">https://truecharts.org/charts/incubator/sshwifty</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "location": "/home/runner/work/catalog/catalog/incubator/sshwifty",
+            "healthy": true,
+            "healthy_error": null,
+            "latest_version": "0.0.1",
+            "latest_app_version": "latest",
+            "latest_human_version": "latest_0.0.1",
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/sshwifty.png"
         },
         "bitcoinunlimited": {
             "name": "bitcoinunlimited",
@@ -10536,9 +10432,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/inkscape-desktop-g3",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.11",
+            "latest_version": "2.0.12",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.11",
+            "latest_human_version": "latest_2.0.12",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/inkscape-desktop-g3.png"
         },
         "sinusbot": {
@@ -10552,9 +10448,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/sinusbot",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.9",
+            "latest_version": "2.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.9",
+            "latest_human_version": "latest_2.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/sinusbot.png"
         },
         "observium": {
@@ -10566,9 +10462,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/observium",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.10",
+            "latest_version": "2.0.11",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.10",
+            "latest_human_version": "latest_2.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/observium.png"
         },
         "st-reborn-server": {
@@ -10918,9 +10814,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/electrum",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.9",
+            "latest_version": "2.0.10",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.9",
+            "latest_human_version": "latest_2.0.10",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/electrum.png"
         },
         "tachidesk-docker": {
@@ -10975,9 +10871,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/farmos",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.14",
+            "latest_version": "2.0.15",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.14",
+            "latest_human_version": "latest_2.0.15",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/farmos.png"
         },
         "ethercalc": {
@@ -11005,9 +10901,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/wifi-card",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.14",
+            "latest_version": "2.0.15",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.14",
+            "latest_human_version": "latest_2.0.15",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/wifi-card.png"
         },
         "go-playground": {
@@ -11033,9 +10929,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/pyload-ng",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.19",
+            "latest_version": "2.0.20",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.19",
+            "latest_human_version": "latest_2.0.20",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/pyload-ng.png"
         },
         "appsmith": {
@@ -11140,9 +11036,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/poste",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.10",
+            "latest_version": "2.0.11",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.10",
+            "latest_human_version": "latest_2.0.11",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/poste.png"
         },
         "jelu": {
@@ -11154,9 +11050,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/jelu",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.15",
+            "latest_version": "2.0.16",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.15",
+            "latest_human_version": "latest_2.0.16",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/jelu.png"
         },
         "chronograf": {
@@ -11168,9 +11064,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/chronograf",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.13",
+            "latest_version": "2.0.14",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.13",
+            "latest_human_version": "latest_2.0.14",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/chronograf.png"
         },
         "reactive-resume": {
@@ -11359,9 +11255,9 @@
             "location": "/home/runner/work/catalog/catalog/incubator/chromium-desktop-g3",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "2.0.15",
+            "latest_version": "2.0.16",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_2.0.15",
+            "latest_human_version": "latest_2.0.16",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/chromium-desktop-g3.png"
         },
         "phoronix-test-suite": {
@@ -11449,9 +11345,9 @@
             "location": "/home/runner/work/catalog/catalog/dependency/mongodb",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "6.0.15",
-            "latest_app_version": "6.0.4",
-            "latest_human_version": "6.0.4_6.0.15",
+            "latest_version": "6.0.20",
+            "latest_app_version": "6.0.5",
+            "latest_human_version": "6.0.5_6.0.20",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/mongodb.png"
         },
         "memcached": {
@@ -11464,9 +11360,9 @@
             "location": "/home/runner/work/catalog/catalog/dependency/memcached",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "6.0.26",
-            "latest_app_version": "1.6.18",
-            "latest_human_version": "1.6.18_6.0.26",
+            "latest_version": "6.0.31",
+            "latest_app_version": "1.6.19",
+            "latest_human_version": "1.6.19_6.0.31",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/memcached.png"
         },
         "mariadb": {
@@ -11478,9 +11374,9 @@
             "location": "/home/runner/work/catalog/catalog/dependency/mariadb",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.16",
+            "latest_version": "7.0.19",
             "latest_app_version": "10.11.2",
-            "latest_human_version": "10.11.2_7.0.16",
+            "latest_human_version": "10.11.2_7.0.19",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png"
         },
         "clickhouse": {
@@ -11492,9 +11388,9 @@
             "location": "/home/runner/work/catalog/catalog/dependency/clickhouse",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.15",
-            "latest_app_version": "23.2.1.253",
-            "latest_human_version": "23.2.1.253_5.0.15",
+            "latest_version": "5.0.19",
+            "latest_app_version": "23.4.1.194",
+            "latest_human_version": "23.4.1.194_5.0.19",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/clickhouse.png"
         },
         "solr": {
@@ -11506,9 +11402,9 @@
             "location": "/home/runner/work/catalog/catalog/dependency/solr",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "4.0.15",
-            "latest_app_version": "9.1.1",
-            "latest_human_version": "9.1.1_4.0.15",
+            "latest_version": "4.0.19",
+            "latest_app_version": "9.2.0",
+            "latest_human_version": "9.2.0_4.0.19",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/solr.png"
         },
         "redis": {
@@ -11521,9 +11417,9 @@
             "location": "/home/runner/work/catalog/catalog/dependency/redis",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "6.0.32",
-            "latest_app_version": "7.0.8",
-            "latest_human_version": "7.0.8_6.0.32",
+            "latest_version": "6.0.36",
+            "latest_app_version": "7.0.11",
+            "latest_human_version": "7.0.11_6.0.36",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/redis.png"
         }
     },
@@ -11551,9 +11447,9 @@
             "location": "/home/runner/work/catalog/catalog/enterprise/traefik",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "17.0.32",
-            "latest_app_version": "2.9.9",
-            "latest_human_version": "2.9.9_17.0.32",
+            "latest_version": "17.0.34",
+            "latest_app_version": "2.9.10",
+            "latest_human_version": "2.9.10_17.0.34",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png"
         },
         "metallb": {
@@ -11607,9 +11503,9 @@
             "location": "/home/runner/work/catalog/catalog/enterprise/grafana",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "7.0.25",
-            "latest_app_version": "9.4.7",
-            "latest_human_version": "9.4.7_7.0.25",
+            "latest_version": "7.0.27",
+            "latest_app_version": "9.5.1",
+            "latest_human_version": "9.5.1_7.0.27",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png"
         },
         "authelia": {
@@ -11635,9 +11531,9 @@
             "location": "/home/runner/work/catalog/catalog/enterprise/prometheus",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "8.0.24",
+            "latest_version": "8.0.26",
             "latest_app_version": "2.43.0",
-            "latest_human_version": "2.43.0_8.0.24",
+            "latest_human_version": "2.43.0_8.0.26",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/prometheus.png"
         }
     },
